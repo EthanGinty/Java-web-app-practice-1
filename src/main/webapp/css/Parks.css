@@ -1,0 +1,83 @@
+<link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
+
+header {
+background-color: #b4ffac;
+}
+header img{
+width:20%;
+}
+#links {
+background-color: #9cc7ff;
+width:100%;
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+}
+#links a{
+margin-left:2%;
+}
+body {
+background-color: #c5feff;
+}
+.homePageParks {
+min-height:300px;
+margin:15px;
+overflow:auto;
+}
+.parkImage{
+height:400px;
+float:left;
+}
+
+.parkInfo {
+margin-left:30px;
+display:inline-block;
+vertical-align:top;
+width: 60%;
+}
+#weather {
+margin:40px;
+background-color: white;
+border: solid black 4px;
+border-radius: 15px;
+}
+#detailImage {
+width:40%;
+}
+.detailInfo {
+margin:15px;
+}
+#weatherHeader {
+text-align: center;
+font-size: 50px;
+font-weight: bold;
+margin: 0;
+}
+#weatherDay {
+display: inline-block;
+width:17%;
+margin:1%;
+vertical-align: top;
+text-align: center;
+}
+#todayHeader {
+font-weight: bold;
+font-size: 35px;
+text-align: center;
+}
+#today img {
+width:100%;
+}
+#fourDay {
+display: inline-block;
+margin-top: 7%;
+margin-left: auto;
+margin-right: auto;
+}
+#dayHeader {
+text-align: center;
+font-size: 25px;
+font-weight: bold;
+}
+#fourDay img {
+width:40%;
+}
